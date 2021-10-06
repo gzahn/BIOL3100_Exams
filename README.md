@@ -8,7 +8,7 @@ Exams will each be in their own directory with a README file that details your t
 
 #### Exam topics:
 
-Exam 1 -- Vectors, subsetting, basic plotting, mathematical and logical operations, importing and exporting data
+Exam 1 -- Vectors, subsetting, plotting, mathematical and logical operations, importing and exporting files
 
 Exam 2 -- Cleaning data, Tidying data, ggplot visualizations, functions
 
